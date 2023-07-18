@@ -1,15 +1,29 @@
+import './index.css';
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import './index.css';
+import { HashRouter as Router } from "react-router-dom"
+import { ChakraProvider, extendTheme } from '@chakra-ui/react';
+
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { HashRouter as Router } from "react-router-dom"
+
+const colors = {
+  brand: {
+    900: '#1a365d',
+    800: '#153e75',
+    700: '#2a69ac',
+  }
+};
+const theme = extendTheme({ colors });
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Router>
-    <App />
-  </Router>
+   <ChakraProvider theme={theme}>
+    <Router>
+      <App />
+    </Router>
+  </ChakraProvider>
 );
 
 // If you want to start measuring performance in your app, pass a function
