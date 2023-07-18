@@ -55,7 +55,7 @@ function Navbar() {
   );
 
   return (
-    <Box bg={useColorModeValue('gray.100', 'gray.900')}>
+    <Box mb={'1%'}>
       <Flex h={16} justifyItems={'center'} alignItems={'center'} justifyContent={'space-around'}>
         {tabs.map((tab, i) => (
           <NavLink key={i} name={tab.name} path={tab.path} />
