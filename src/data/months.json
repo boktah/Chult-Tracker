@@ -1,0 +1,128 @@
+[
+  {
+    "id": 0,
+    "name": "Hammer",
+    "nickname": "Deepwinter",
+    "days": 30,
+    "leap": false
+  },
+  {
+    "id": 1,
+    "name": "Midwinter",
+    "nickname": null,
+    "days": 1,
+    "leap": false
+  },
+  {
+    "id": 2,
+    "name": "Alturiak",
+    "nickname": "The Claw of Winter",
+    "days": 30,
+    "leap": false
+  },
+  {
+    "id": 3,
+    "name": "Ches",
+    "nickname": "The Claw of Sunsets",
+    "days": 30,
+    "leap": false
+  },
+  {
+    "id": 4,
+    "name": "Tarsakh",
+    "nickname": "The Claw of Storms",
+    "days": 30,
+    "leap": false
+  },
+  {
+    "id": 5,
+    "name": "Greengrass",
+    "nickname": null,
+    "days": 1,
+    "leap": false
+  },
+  {
+    "id": 6,
+    "name": "Mirtul",
+    "nickname": "The Melting",
+    "days": 30,
+    "leap": false
+  },
+  {
+    "id": 7,
+    "name": "Kythorn",
+    "nickname": "The Time of Flowers",
+    "days": 30,
+    "leap": false
+  },
+  {
+    "id": 8,
+    "name": "Flamerule",
+    "nickname": "Summertide",
+    "days": 30,
+    "leap": false
+  },
+  {
+    "id": 9,
+    "name": "Midsummer",
+    "nickname": null,
+    "days": 1,
+    "leap": false
+  },
+  {
+    "id": 10,
+    "name": "Shieldmeet",
+    "nickname": null,
+    "days": 1,
+    "leap": true
+  },
+  {
+    "id": 11,
+    "name": "Eleasias",
+    "nickname": "Highsun",
+    "days": 30,
+    "leap": false
+  },
+  {
+    "id": 12,
+    "name": "Eleint",
+    "nickname": "The Fading",
+    "days": 30,
+    "leap": false
+  },
+  {
+    "id": 13,
+    "name": "Highharvestide",
+    "nickname": null,
+    "days": 1,
+    "leap": false
+  },
+  {
+    "id": 14,
+    "name": "Marpenoth",
+    "nickname": "Leaffall",
+    "days": 30,
+    "leap": false
+  },
+  {
+    "id": 15,
+    "name": "Uktar",
+    "nickname": "The Rotting",
+    "days": 30,
+    "leap": false
+  },
+  {
+    "id": 16,
+    "name": "The Feast of the Moon",
+    "nickname": null,
+    "days": 1,
+    "leap": false
+  },
+  {
+    "id": 17,
+    "name": "Nightal",
+    "nickname": "The Drawing Down",
+    "days": 30,
+    "leap": false
+  }
+]
