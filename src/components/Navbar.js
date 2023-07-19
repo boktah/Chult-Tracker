@@ -2,8 +2,7 @@ import {
   Box,
   Flex,
   Link,
-  useColorModeValue,
-} from "@chakra-ui/react"
+} from "@chakra-ui/react";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import {
@@ -18,7 +17,7 @@ const tabs = [
   { name: 'Calendar', path: "/" },
   { name: 'Party Bank', path: '/party-bank' },
   { name: 'Character Manager', path: "/characters" },
-  { name: 'Enter Code', path: "/enter-code" },
+  // { name: 'Enter Code', path: "/enter-code" },
 ];
 
 function Navbar() {
